@@ -20,11 +20,11 @@
         default_layer {
             label = "F Keys";
             bindings = <
-&kp ESCAPE  &kp K_PLAY_PAUSE  &kp K_PREV  &kp K_NEXT     &kp C_VOL_DN  &kp C_VOLUME_UP                       &trans  &trans  &trans  &trans  &trans  &trans
-&kp F1      &kp F2            &kp F3      &kp BACKSLASH  &kp F5        &kp F6                                &trans  &trans  &trans  &trans  &trans  &trans
-&kp F7      &kp F8            &kp F9      &kp F10        &kp F11       &kp F12                               &trans  &trans  &trans  &trans  &trans  &trans
-&kp F13     &kp F14           &kp F15     &kp F16        &kp F17       &kp F18          &kp F19      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp F20     &kp F21           &kp F22     &kp F23        &mo LOWER     &mo MIDDLE       &mo UPPER    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE  &kp K_PLAY_PAUSE  &kp K_PREV  &kp K_NEXT         &kp C_VOL_DN  &kp C_VOLUME_UP                       &trans  &trans  &trans  &trans  &trans  &trans
+&kp RS(F1)  &kp RS(F2)        &kp RS(F3)  &kp RS(BACKSLASH)  &kp RS(F5)    &kp RS(F6)                            &trans  &trans  &trans  &trans  &trans  &trans
+&kp RS(F7)  &kp RS(F8)        &kp RS(F9)  &kp RS(F10)        &kp RS(F11)   &kp RS(F12)                           &trans  &trans  &trans  &trans  &trans  &trans
+&kp F13     &kp F14           &kp F15     &kp F16            &kp F17       &kp F18          &kp F19      &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp F20     &kp F21           &kp F22     &kp F23            &mo LOWER     &mo MIDDLE       &mo UPPER    &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
